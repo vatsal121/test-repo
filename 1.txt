@@ -1,3 +1,8 @@
 Added new Line
 
+
 Line TO make conflicts
+
+New After Bare
+
+NewChanges
